@@ -1,0 +1,9 @@
+provider: spaces
+region: fra1
+name: asd
+path: /some/path
+acl: public-read
+channel: beta
+updaterCacheDirName: app-updater
+publisherName:
+  - Hey
