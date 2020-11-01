@@ -1,3 +1,5 @@
+Related to: https://github.com/electron-userland/electron-builder/issues/5234
+
 ```
 yarn build
 yarn dist
